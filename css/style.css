@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+body {
+    margin: 0;
+    font-family: 'Cabin', 'monospace';
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.first-section {
+    background: #264653;
+    color: white;
+}
+
+.para1 {
+    width: 450px;
+    height: 70px;
+    text-align: justify;
+}
+
+.modes button,
+#submit {
+    background-color: #E76F51;
+    color: white;
+}
+
+.para2,
+#span3,
+#span4,
+#social {
+    color: #E76F51;
+    font-weight: bold;
+}
+
+.right img {
+    width: 85%;
+}
+
+.btns {
+    width: 120px;
+    height: 44px;
+    background-color: #E76F51 !important;
+}
+
+.cards-collection img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#rating span {
+    color: #E76F51;
+}
+
+.second-section .photo-class .left,
+.second-section .photo-class .right {
+    filter: grayscale(100%);
+}
+
+.accordion-item {
+    border: 1px solid black;
+}
+
+.accordion-button {
+    color: black !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.accordion-body {
+    text-align: justify;
+}
+
+.fourth-section {
+    overflow-x: hidden;
+}
+
+.fourth-section img {
+    width: 26rem;
+    height: 25rem;
+    padding: 2rem;
+}
+
+.fifth-section .lefts,
+.fifth-section .right {
+    background-color: #a2b3b3;
+    box-shadow: 0 0 5px 5px gray;
+}
